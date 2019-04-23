@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoListTests.deps.json
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoListTests.runtimeconfig.json
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoListTests.runtimeconfig.dev.json
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoListTests.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoListTests.pdb
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.AssemblyInfo.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.csproj.CopyComplete
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoListTests.pdb
